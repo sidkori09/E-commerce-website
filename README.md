@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Online Shopping Cart (E-Commerce Website)
 - Youtube Video for introduction, demo and setup for this Project: https://www.youtube.com/watch?v=RgQG0_orFpM
 <!-- - YouTube video for step by step local setup of similar project: https://www.youtube.com/watch?v=mLFPodZO8Iw&t=8s -->
@@ -156,3 +157,6 @@ Note:- This is a Sample Project for learning purpose, we have not much considere
                                                                                                          <b>Shashi Raj</b>
 
 
+=======
+# E-commerce-website
+>>>>>>> dae43ee2a71c44f80471fce7d6e3f6b904fd1d5c
